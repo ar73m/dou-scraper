@@ -1,0 +1,21 @@
+{
+  "name": "dou-scraper",
+  "version": "0.0.1",
+  "description": "dou link scraper example",
+  "main": "scraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@ar73m.github.com:ar73m/dou-scraper.git"
+  },
+  "keywords": [
+    "scraper"
+  ],
+  "author": "ar73m",
+  "license": "ISC",
+  "dependencies": {
+    "extractor": "^0.1.2"
+  }
+}
